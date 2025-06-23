@@ -1,0 +1,5 @@
+.DS_Store
+libtypst_ffi.a
+
+*.xcuserdata
+*.xcuserdatad
